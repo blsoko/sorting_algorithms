@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "/home/blsoko/HolbertonSchool/sorting_algorithms/sort.h"
+#include "sort.h"
 
 /**
  * print_list - Prints a list of integers

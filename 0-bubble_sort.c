@@ -1,4 +1,4 @@
-#include "/home/blsoko/HolbertonSchool/sorting_algorithms/sort.h"
+#include "sort.h"
 
 /**
  * bubble_sort - Prints a list of integers
